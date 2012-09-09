@@ -92,7 +92,6 @@ results in
 ]
 ```
 Glasses(blah) is a superset of the methods call that includes non-function properties. For example with an array, the result would also include "length". There's also Glasses.attributes for just non-function properties. 
-```
 
 #Build status
 [![build status](https://secure.travis-ci.org/stephenhandley/glasses.png)](http://travis-ci.org/stephenhandley/glasses)
