@@ -95,4 +95,4 @@ Glasses(blah) is a superset of the methods call that includes non-function prope
 ```
 
 #Build status
-[![build status](https://secure.travis-ci.org/stephenhandley/Glasses.png)](http://travis-ci.org/stephenhandley/Glasses)
+[![build status](https://secure.travis-ci.org/stephenhandley/glasses.png)](http://travis-ci.org/stephenhandley/glasses)
