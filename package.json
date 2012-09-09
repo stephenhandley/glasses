@@ -1,0 +1,44 @@
+{
+  "name": "glasses",
+  "description": "Basic object property and method reflection/introspection",
+  "version": "0.0.1",
+  "license": "BSD",
+  "main": "index.js",
+  
+  "engines" : {
+    "node" : ">=0.4.0"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stephenhandley/glasses.git"
+  },
+  
+  "bugs": { 
+    "url" : "http://github.com/stephenhandley/glasses/issues"
+  },
+  
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  
+  "keywords": [
+    "reflection",
+    "introspection"
+  ],
+  
+  "directories" : {
+    "lib" : ".",
+    "test" : "test"
+  },
+  
+  "devDependencies": {
+    "dundee": "~0.0.1"
+  },
+  
+  "author": {
+    "name": "Stephen Handley",
+    "email": "stephen.handley@gmail.com",
+    "url": "http://person.sh"
+  }
+}
